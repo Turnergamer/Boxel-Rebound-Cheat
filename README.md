@@ -1,4 +1,5 @@
 # Boxel-Rebound
+Press ' for the menu or " i think
 Boxel Rebound cheat 
 Extension Changed Code Download: https://www.mediafire.com/file/vtb1sdwh1pc2vuo/iginnfkhmmfhlkagcmpgofnjhanpmklb.zip/file
 This extension gets rid of the disabled console F12
